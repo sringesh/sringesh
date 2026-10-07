@@ -13,8 +13,8 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0B132B?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0B132B?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/sringeshece"><img src="https://img.shields.io/badge/LinkedIn-0B132B?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn"/></a>
+  <a href="mailto:reachsringesh@gmail.com"><img src="https://img.shields.io/badge/Email-0B132B?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email"/></a>
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0B132B?style=for-the-badge&logo=vercel&logoColor=FFD700" alt="Portfolio"/></a>
   <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-0B132B?style=for-the-badge&logo=x&logoColor=00F0FF" alt="X"/></a>
   <a href="https://kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-0B132B?style=for-the-badge&logo=kaggle&logoColor=FFD700" alt="Kaggle"/></a>
